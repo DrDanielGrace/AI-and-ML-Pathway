@@ -1,9 +1,9 @@
 # AI-and-ML-Pathway
 My learning pathway to learn Ai and ML 
 
-**Prompt Engineering**
-Antrophic Claude 101
-AI Fluency: Framework & Foundations by Antrophic
+**Prompt Engineering Courses**
+1. Antrophic Claude 101.
+2. AI Fluency: Framework & Foundations by Antrophic
 
 
 Course To Take
